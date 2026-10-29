@@ -353,7 +353,7 @@ I wanted to keep the screenshots instead of reducing the game to five or six pro
 
 ## Download and repository notes
 
-**Android:** The playable APK is distributed through the **Releases** section of this repository.
+**Android:** The playable APK is distributed through the **Releases** section of this repository. **[Download Color Attack for Android (APK)](https://github.com/nikolasa004/ColorAttack/releases/tag/v0.1.0)**
 
 The source project is made with **Unity and C#**. It contains the game code and project settings, but certain third-party assets (including some fonts, sound effects, music, and Unity Asset Store resources) are intentionally excluded from the repository. Because of that, a fresh clone may **not** be immediately buildable without the separately obtained assets. The release APK is the simplest way to try the game.
 
