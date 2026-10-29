@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3be2245ad3accab419d403303cde3502, type: 3}
+  m_Name: KapricozaSuperheroj 8
+  m_EditorClassIdentifier: 
+  character: {fileID: 11400000, guid: de637c0b8f85c9a4591bf37ae317bf9d, type: 2}
+  text: Wait... are you telling me you don't actually have any powers... because
+    you ate me... and I'm constantly inside your stomach!?
+  onRightSide: 1
+  nextDialog: {fileID: 11400000, guid: 6294d7ec469238f4da6f42be5fadb11e, type: 2}
+  hasEffect: 0

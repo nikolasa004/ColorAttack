@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3be2245ad3accab419d403303cde3502, type: 3}
+  m_Name: BobIntro27
+  m_EditorClassIdentifier: 
+  character: {fileID: 11400000, guid: 75c0e6df6dc04f146a147f33cf9533d4, type: 2}
+  text: 'There are two generators in kingdom: the square and the triangle. One produces
+    blue energy, the other red. But they''re nothing without the third one, inside
+    the old mill.'
+  onRightSide: 0
+  nextDialog: {fileID: 11400000, guid: 07f1b739169c46345a2ff16b045fd36f, type: 2}

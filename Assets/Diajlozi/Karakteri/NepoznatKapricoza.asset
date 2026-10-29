@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69f7d716d6f2fdd4cb303bfb49fc6c80, type: 3}
+  m_Name: NepoznatKapricoza
+  m_EditorClassIdentifier: 
+  characterName: ??????? ?????????
+  nameMaterial: {fileID: 2100000, guid: 003ba4c1d1eb3494b817bc044566992c, type: 2}
+  normalFace: {fileID: 21300000, guid: 1e4c10b64bbf74b4394b9b7347ce1b56, type: 3}
+  openMouthFace: {fileID: 21300000, guid: 9a235f88c6e7c5942bdbb9c1537de9ed, type: 3}
+  closedEyesFace: {fileID: 21300000, guid: 1e4c10b64bbf74b4394b9b7347ce1b56, type: 3}
+  sound: {fileID: 8300000, guid: 068c375bb4a64854d86bd43a0f387158, type: 3}

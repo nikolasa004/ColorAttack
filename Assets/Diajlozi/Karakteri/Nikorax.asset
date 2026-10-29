@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69f7d716d6f2fdd4cb303bfb49fc6c80, type: 3}
+  m_Name: Nikorax
+  m_EditorClassIdentifier: 
+  characterName: Nikorax
+  nameMaterial: {fileID: 2100000, guid: 5be710094b594054fbc014d118de6ab1, type: 2}
+  normalFace: {fileID: 21300000, guid: a65c72f1ca96e7f4f98692bf3500ed56, type: 3}
+  openMouthFace: {fileID: 21300000, guid: d7f1f5464e4bd2049a1f231f53aacafc, type: 3}
+  closedEyesFace: {fileID: 21300000, guid: 3e3719093a98ada4f9874e95df1b84bd, type: 3}
+  sound: {fileID: 8300000, guid: 6f33b941c39f2c3459d321ef7f278c55, type: 3}

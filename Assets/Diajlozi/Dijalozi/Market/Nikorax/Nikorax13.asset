@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3be2245ad3accab419d403303cde3502, type: 3}
+  m_Name: Nikorax13
+  m_EditorClassIdentifier: 
+  character: {fileID: 11400000, guid: 879c10f4191108d45aaab3b6e5584d87, type: 2}
+  text: When your journey leads you to a new place, your potions will change, their
+    effects will reset, and new brews shall await.
+  onRightSide: 0
+  nextDialog: {fileID: 11400000, guid: 067ec4cfd47041640a246685ac099781, type: 2}
+  hasEffect: 0

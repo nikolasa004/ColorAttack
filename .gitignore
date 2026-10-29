@@ -1,0 +1,86 @@
+# Unity-generated files
+.utmp/
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+*.log
+*.blend1
+*.blend1.meta
+
+# IDE and generated solution files
+.vs/
+.idea/
+.gradle/
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.DotSettings.user
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+/[Aa]ssets/Plugins/Editor/JetBrains*
+
+# OS and crash files
+.DS_Store
+Thumbs.db
+Desktop.ini
+sysinfo.txt
+mono_crash.*
+crashlytics-build.properties
+
+# Build and exported packages (publish APK separately as a GitHub Release)
+*.apk
+*.aab
+*.unitypackage
+*.unitypackage.meta
+*.app
+
+# Unity-generated content
+InitTestScene*.unity*
+/[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+/[Aa]ssets/[Ss]ceneDependencyCache*
+/UIElementsSchema/
+/ServerData/
+/[Aa]ssets/StreamingAssets/aa*
+/[Aa]ssets/AddressableAssetsData/link.xml*
+/[Aa]ssets/Addressables_Temp*
+/[Aa]ssets/AddressableAssetsData/*/*.bin*
+/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db
+/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db.meta
+/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers
+/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers.meta
+
+# Third-party Unity Asset Store resources: not redistributable as source
+/[Aa]ssets/JMO Assets/
+/[Aa]ssets/JMO Assets.meta
+/[Aa]ssets/Krivodeling/
+/[Aa]ssets/Krivodeling.meta
+
+# Temporarily excluded until individual redistribution licenses are verified
+/[Aa]ssets/Font/
+/[Aa]ssets/Font.meta
+/[Aa]ssets/Muzika/
+/[Aa]ssets/Muzika.meta
+/[Aa]ssets/SoundEffects/
+/[Aa]ssets/SoundEffects.meta

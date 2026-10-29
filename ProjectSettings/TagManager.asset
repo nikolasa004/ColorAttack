@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - crveno
+  - plavo
+  - zuto
+  - narandzasto
+  - ljubicasto
+  - zeleno
+  - trougao
+  - krug
+  - kraj
+  - snegCrveno
+  - snegPlavo
+  - snegZuto
+  - snegNarandzasto
+  - snegLjubicasto
+  - snegZeleno
+  - ledCrveno
+  - ledPlavo
+  - ledZuto
+  - ledNarandzasto
+  - ledLjubicasto
+  - ledZeleno
+  - Undefined
+  - snegCrvenoTrougao
+  - snegPlavoTrougao
+  - snegZutoTrougao
+  - snegNarandzastoTrougao
+  - snegLjubicastoTrougao
+  - ledCrvenoTrougao
+  - ledPlavoTrougao
+  - ledZutoTrougao
+  - ledNarandzastoTrougao
+  - ledLjubicastoTrougao
+  - ledZelenoTrougao
+  - snegZelenoTrougao
+  - crvenaRuda
+  - plavaRuda
+  - zutaRuda
+  - sir
+  - misolovka
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - post processing
+  - no post processing
+  - SirNinja
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
